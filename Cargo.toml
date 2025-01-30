@@ -55,6 +55,7 @@ members = [
     "boards/configurations/nrf52840dk/nrf52840dk-test-appid-sha256",
     "boards/configurations/nrf52840dk/nrf52840dk-test-kernel",
     "boards/tutorials/nrf52840dk-thread-tutorial",
+    "boards/seeed_studio_lora-E5-HF",
     "capsules/aes_gcm",
     "capsules/core",
     "capsules/extra",
